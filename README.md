@@ -1,9 +1,9 @@
 # Frank’s Apps — release downloads
 
-Public release files for [Frank’s Apps](https://apps.frank-hernandez.com).
+Public IPAs for [LTH and YouTube LTH](https://apps.frank-hernandez.com).
 
-Add `https://apps.frank-hernandez.com/source.json` to a signing app that accepts AltStore-style repositories, or download an IPA from Releases and import it into your signer. A signing account or certificate is still required.
+Add `https://apps.frank-hernandez.com/source.json` to a signing app that accepts AltStore-style repositories, or download an IPA from Releases and import it into your signer. A signing account or certificate is required. Update existing installations with the same account to preserve app data.
 
-YouTube is by Google. YTKACE is by [itzzace and contributors](https://github.com/itzzace/ytkace); these are Frank’s personal builds. YTKACE’s MIT license and third-party notices accompany its release. The original development repository remains private.
+The latest branding releases are LTH 1.3 (4) and YouTube LTH 21.41.5, build 21.41.6, with YTKACE frank.12. Each release includes SHA-256 checksums. The catalog records the actual versions, minimum iOS, byte sizes and permissions. App development repositories remain private.
 
-The catalog records the exact package versions, minimum iOS, byte sizes and permissions. SHA-256 files let you verify the downloads. The current frank.11 package is unchanged from the private release; its earlier rendering and freeze reports are not confirmed fixed on device.
+YouTube is by Google. YTKACE is by [itzzace and contributors](https://github.com/itzzace/ytkace); these are Frank’s personal builds. Its MIT license and third-party notices accompany each YouTube release. Physical-device installation and YouTube header rendering are not yet verified; the branding update does not claim to fix earlier rendering or freeze reports.
